@@ -1,6 +1,6 @@
 ## Hi there, Myself Harsh Dev Jha👋
 
-> *"Coding systems, Questioning existence, and Crafting meaning—one Commit at a time,"*
+> *"Coding systems, Questioning existence, and Crafting meaning—one Commit at a time, as existence merges back into my branch"*
 
 
 Here are some ideas to get you started:
