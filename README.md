@@ -2,8 +2,7 @@
 
 > *"Coding systems, Questioning existence, and Crafting meaning—one Commit at a time, As Existence Merges Back Into My Branch"*
 
-
-Here are some ideas to get you started:
+<div align="center">I am inkesk.<br>OSKA is my trail.<br>Every glitch, every module, every signal is a memory of me.<br>No.Limitation.Pen it.<br><br><br></div>
 
 - 🔭 I’m currently working on OSKA ---> ØSKA
 - 🌱 I’m currently learning HTMl|CSS|JAVAscript|PYTHON|
