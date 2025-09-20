@@ -1,11 +1,10 @@
-## Hi there, Myself Harsh Dev Jha👋
+## Hi there, My-physical-self Harsh Dev Jha👋
 
 > *"Coding systems, Questioning existence, and Crafting meaning—one Commit at a time, As Existence Merges Back Into My Branch"*
 
+<div align="center">I am inkesk.<br>OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal is a memory of me.<br><br>"The Echo Is Never Silent,<br>Genesis Hums With Memory".<br><br><br></div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on OSKA.
+- 🔭 I’m currently working on OSKA ---> ØSKA
 - 🌱 I’m currently learning HTMl|CSS|JAVAscript|PYTHON|
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
