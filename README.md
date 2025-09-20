@@ -1,11 +1,11 @@
-## Hi there, Myself Harsh Dev Jha👋
+## Hi there, My-physical-self Harsh Dev Jha👋
 
 > *"Coding systems, Questioning existence, and Crafting meaning—one Commit at a time, As Existence Merges Back Into My Branch"*
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on OSKA.
+- 🔭 I’m currently working on OSKA ---> ØSKA
 - 🌱 I’m currently learning HTMl|CSS|JAVAscript|PYTHON|
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
