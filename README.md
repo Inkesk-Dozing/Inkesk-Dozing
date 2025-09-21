@@ -2,7 +2,14 @@
 
 > *"Coding systems, Questioning existence, and Crafting meaning—one Commit at a time, As Existence Merges Back Into My Branch"*
 
-<div align="center">I am inkesk.<br>OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal is a memory of me.<br><br>"The Echo Is Never Silent,<br>Genesis Hums With Memory".<br><br><br></div>
+<div align="center"><hr width='40%'>I am inkesk.<br>
+OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal is a memory of me.<br><br>
+"The Echo Is Never Silent,<br>Genesis Hums With Memory".<br><strong>.</strong>
+<hr width='40%'>
+<sub><em style="color:#888888;">inkesk → origin&nbsp;&nbsp;|&nbsp;&nbsp;OSKA → trail&nbsp;&nbsp;|&nbsp;&nbsp;Vibhu → mind &nbsp;&nbsp|&nbsp;&nbsp;ØSKA is its echo&nbsp;&nbsp;</em></sub>
+<hr width='100%'>
+</div>
+<br><br>
 
 - 🔭 I’m currently working on OSKA ---> ØSKA
 - 🌱 I’m currently learning HTMl|CSS|JAVAscript|PYTHON|
