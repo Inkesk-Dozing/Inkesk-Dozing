@@ -2,8 +2,14 @@ name: Update Recent Activity
 
 on:
   schedule:
-    - cron: '0 * * * *' # runs every hour
-  workflow_dispatch:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:      # Manual trigger
+  push:
+    branches:
+      - main              # Trigger on push to main
+  pull_request:
+    branches:
+      - main              # Trigger on PR to main
 
 jobs:
   update-activity:
