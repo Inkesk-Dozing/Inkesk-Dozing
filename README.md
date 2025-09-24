@@ -26,13 +26,12 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 ![Last Commit](https://img.shields.io/github/last-commit/Inkesk-Dozing/)
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inkesk-Dozing&show_icons=true&theme=radical)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inkesk-Dozing&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inkesk-Dozing&layout=compact) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inkesk-Dozing&show_icons=true&theme=radical) 
 
 ## 📌 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+
 ![Commit Activity](https://img.shields.io/github/commit-activity/y/Inkesk-Dozing/profileO)
 ![Last Commit](https://img.shields.io/github/last-commit/Inkesk-Dozing/profileO)
 <!--END_SECTION:activity-->
