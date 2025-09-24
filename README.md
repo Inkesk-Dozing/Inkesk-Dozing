@@ -31,6 +31,7 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 ## 📌 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+<h2><strong>profileO</strong></h2>
 
 ![Commit Activity](https://img.shields.io/github/commit-activity/y/Inkesk-Dozing/profileO)
 ![Last Commit](https://img.shields.io/github/last-commit/Inkesk-Dozing/profileO)
