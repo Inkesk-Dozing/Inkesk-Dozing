@@ -20,6 +20,23 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
+## 🚀 GitHub Stats
+<!--
+![Commit Activity](https://img.shields.io/github/commit-activity/y/Inkesk-Dozing/)
+![Last Commit](https://img.shields.io/github/last-commit/Inkesk-Dozing/)
+-->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inkesk-Dozing&layout=compact) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inkesk-Dozing&show_icons=true&theme=radical) 
+
+## 📌 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<h2><strong>profileO</strong></h2>
+
+![Commit Activity](https://img.shields.io/github/commit-activity/y/Inkesk-Dozing/profileO)
+![Last Commit](https://img.shields.io/github/last-commit/Inkesk-Dozing/profileO)
+<!--END_SECTION:activity-->
+
 
 <!--
 **Inkesk-Dozing/Inkesk-Dozing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
