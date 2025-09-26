@@ -1,6 +1,7 @@
-max_lines: 5
-commit_messages: true
-pr_messages: true
-issue_messages: true
+
+#max_lines: 5
+#commit_messages: true
+#pr_messages: true
+#issue_messages: true
 # exclude_repos:
 #  - yourusername/your-profile-repo
