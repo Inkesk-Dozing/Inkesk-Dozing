@@ -1,14 +1,14 @@
-name: Update Recent Activity
+#name: Update Recent Activity
 
-on:
-  schedule:
-    - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:      # Manual trigger
+#on:
+# schedule:
+#    - cron: '0 * * * *'  # Runs every hour
+#  workflow_dispatch:      # Manual trigger
 
-jobs:
-  update-activity:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Readme-Workflows/recent-activity@v2.0.0
-        with:
-          GH_USERNAME: Inkesk-Dozing
+#jobs:
+#  update-activity:
+#    runs-on: ubuntu-latest
+#   steps:
+#      - uses: #Readme-Workflows/recent-activity@v2.0.0
+#        with:
+#          GH_USERNAME: Inkesk-Dozing
