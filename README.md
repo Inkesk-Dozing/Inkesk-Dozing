@@ -31,7 +31,7 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 ![Inkesk Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inkesk-Dozing&layout=compact) 
 
 <!-- GitHub Stats -->
-![Inkesk GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inkesk-Dozing&show_icons=true&theme=transparent&bg_color=010101&text_color=B8C0FF&title_color=A1E3D8&icon_color=E6B87D&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Inkesk's%20Github%20Stats)
+![Inkesk GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inkesk-Dozing&show_icons=true&theme=transparent&bg_color=010101&text_color=B8C0FF&title_color=A1E3D8&icon_color=E6B87D&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Inkesk's%20Github%20Stats&include_all_commits=true)
 
 <!-- GitHub Streak Stats -->
 ![Inkesk GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inkesk-Dozing&theme=custom&background=010101&border=2c2c2c&ring=A1E3D8&fire=E6B87D&currStreakNum=B8C0FF&sideNums=CCCCCC&currStreakLabel=A1E3D8&sideLabels=999999&dates=666666)
@@ -41,6 +41,12 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 
 <!-- GitHub Graph -->
 ![Inkesk Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=Inkesk-Dozing)
+
+
+![Contributions](https://img.shields.io/badge/Contributions%20in%202025-1200%2B-A1E3D8?style=for-the-badge&logo=github&logoColor=010101&labelColor=010101)
+
+![Watchers](https://img.shields.io/badge/Total%20Watchers-42-A1E3D8?style=for-the-badge&logo=github&logoColor=010101&labelColor=010101)
+
 
 ## 📌 Recent GitHub Activity
 
