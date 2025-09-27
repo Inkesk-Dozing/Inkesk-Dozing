@@ -27,7 +27,7 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inkesk-Dozing&layout=compact) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inkesk-Dozing&show_icons=true&theme=radical) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inkesk-Dozing&theme=custom&background=0a0a0a&border=2c2c2c&ring=ff6f00&fire=ffc300&currStreakNum=fff56d&sideNums=eeeeee&currStreakLabel=ffc300&sideLabels=bbbbbb&dates=666666)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inkesk-Dozing&theme=custom&background=0a0a0a&border=2c2c2c&ring=ff6f00&fire=ffc300&currStreakNum=fff56d&sideNums=eeeeee&currStreakLabel=ffc300&sideLabels=bbbbbb&dates=666666)
 ![Github Graph](https://github-readme-activity-graph.cyclic.app)
 
 ## 📌 Recent GitHub Activity
