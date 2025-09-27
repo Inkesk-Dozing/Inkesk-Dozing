@@ -26,9 +26,21 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 ![Last Commit](https://img.shields.io/github/last-commit/Inkesk-Dozing/)
 -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inkesk-Dozing&layout=compact) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inkesk-Dozing&show_icons=true&theme=radical) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inkesk-Dozing&theme=custom&background=0a0a0a&border=2c2c2c&ring=ff6f00&fire=ffc300&currStreakNum=fff56d&sideNums=eeeeee&currStreakLabel=ffc300&sideLabels=bbbbbb&dates=666666)
-![Github Graph](https://github-readme-activity-graph.cyclic.app)
+
+<!-- GitHub Streak Stats -->
+![Inkesk Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inkesk-Dozing&layout=compact) 
+
+<!-- GitHub Stats -->
+![Inkesk GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inkesk-Dozing&show_icons=true&theme=transparent&bg_color=010101&text_color=B8C0FF&title_color=A1E3D8&icon_color=E6B87D&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+<!-- GitHub Streak Stats -->
+![Inkesk GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inkesk-Dozing&theme=custom&background=010101&border=2c2c2c&ring=A1E3D8&fire=E6B87D&currStreakNum=B8C0FF&sideNums=CCCCCC&currStreakLabel=A1E3D8&sideLabels=999999&dates=666666)
+
+<!-- GitHub Trophy -->
+[![Inkesk Trophy](https://github-profile-trophy.vercel.app/?username=Inkesk-Dozing&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- GitHub Graph -->
+![Inkesk Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=Inkesk-Dozing)
 
 ## 📌 Recent GitHub Activity
 
