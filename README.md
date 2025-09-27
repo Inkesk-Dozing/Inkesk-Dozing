@@ -1,4 +1,4 @@
-## Hi there, My-physical-self Harsh Dev Jha👋
+## Hi there👋, My-Physical-Self Harsh Dev Jha
 
 > *"Coding systems, Questioning existence, and Crafting meaning—one Commit at a time, As Existence Merges Back Into My Branch"*
 
@@ -20,14 +20,15 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-## 🚀 GitHub Stats
+## 🚀 GitHub Presense
 <!--
 ![Commit Activity](https://img.shields.io/github/commit-activity/y/Inkesk-Dozing/)
 ![Last Commit](https://img.shields.io/github/last-commit/Inkesk-Dozing/)
 -->
 
-
-<!-- GitHub Streak Stats -->
+<div align="center">
+  
+<!-- GitHub Top Lang -->
 ![Inkesk Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inkesk-Dozing&layout=compact) 
 
 <!-- GitHub Stats -->
@@ -42,10 +43,11 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 <!-- GitHub Graph -->
 ![Inkesk Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=Inkesk-Dozing)
 
-
+<!-- Custom Badges -->
+![Watchers](https://img.shields.io/badge/Total%20Watchers-42-A1E3D8?style=for-the-badge&logo=github&logoColor=010101&labelColor=010101)
 ![Contributions](https://img.shields.io/badge/Contributions%20in%202025-1200%2B-A1E3D8?style=for-the-badge&logo=github&logoColor=010101&labelColor=010101)
 
-![Watchers](https://img.shields.io/badge/Total%20Watchers-42-A1E3D8?style=for-the-badge&logo=github&logoColor=010101&labelColor=010101)
+</div>
 
 
 ## 📌 Recent GitHub Activity
@@ -58,6 +60,13 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 <!--END_SECTION:activity-->
 
 
+
+
+
+
+> _“Every signal is a memory. Every repo is a glyph. Every commit is a breath.”_  
+> _— Inkesk, the Origin_
+> 
 <!--
 **Inkesk-Dozing/Inkesk-Dozing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -72,3 +81,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
