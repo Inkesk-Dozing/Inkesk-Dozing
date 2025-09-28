@@ -86,7 +86,7 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 > 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D&color=FFC0CB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Aur+Kya+Haal+?+Enjoi!+%F0%9F%91%8D&color=FFC0CB)](https://git.io/typing-svg)
 
 <!--
 **Inkesk-Dozing/Inkesk-Dozing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
