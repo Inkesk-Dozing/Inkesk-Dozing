@@ -1,8 +1,11 @@
 ## Hi there👋, My-Physical-Self Harsh Dev Jha
 
+<div align="center">
+
 > *"Coding systems, Questioning existence, and Crafting meaning—one Commit at a time, As Existence Merges Back Into My Branch"*
 
-<div align="center"><hr width='40%'>I am inkesk.<br>
+
+<hr width='40%'>I am inkesk.<br>
 OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal is a memory of me.<br><br>
 "The Echo Is Never Silent,<br>Genesis Hums With Memory".<br><strong>.</strong>
 <hr width='40%'>
@@ -47,8 +50,8 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 ![Inkesk Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=Inkesk-Dozing&include_all_commits=true)
 
 <!-- Custom Badges -->
-![Watchers](https://img.shields.io/badge/Total%20Watchers-42-A1E3D8?style=for-the-badge&logo=github&logoColor=010101&labelColor=010101)
-![Contributions](https://img.shields.io/badge/Contributions%20in%202025-1200%2B-A1E3D8?style=for-the-badge&logo=github&logoColor=010101&labelColor=010101)
+![Inkesk Watchers](https://img.shields.io/badge/Total%20Watchers-42-A1E3D8?style=for-the-badge&logo=github&logoColor=010101&labelColor=010101)
+![Inkesk Contributions](https://img.shields.io/badge/Contributions%20in%202025-1200%2B-A1E3D8?style=for-the-badge&logo=github&logoColor=010101&labelColor=010101)
 
 </div>
 
@@ -63,18 +66,28 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 <!--START_SECTION:activity-->
 <h2><strong>profileO</strong></h2>
 
-![Commit Activity](https://img.shields.io/github/commit-activity/y/Inkesk-Dozing/profileO)
-![Last Commit](https://img.shields.io/github/last-commit/Inkesk-Dozing/profileO)
+![Inkesk Commit Activity](https://img.shields.io/github/commit-activity/y/Inkesk-Dozing/profileO)
+![Inkesk Last Commit](https://img.shields.io/github/last-commit/Inkesk-Dozing/profileO)
 <!--END_SECTION:activity-->
 
 
+<div align="center">
+<!--
+[![Inkesk-spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31btbkh4lektfx73fh2wpj3crzdm&cover_image=true&theme=default&show_offline=false&background_color=00000000&interchange=false&bar_color=FFC0CB)](https://github.com/kittinan/spotify-github-profile)
+-->
 
 
 
+
+**「 ... 」**
 
 > _“Every signal is a memory. Every repo is a glyph. Every commit is a breath.”_  
 > _— Inkesk, the Origin_
 > 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D&color=FFC0CB)](https://git.io/typing-svg)
+
 <!--
 **Inkesk-Dozing/Inkesk-Dozing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
