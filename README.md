@@ -57,6 +57,12 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 
 ---
 
+# Badges
+![Holopin hacktoberfest badge](https://www.holopin.io/hacktoberfest2025/userbadge/cmgena8i0001kl2042fje5p8g)
+![Hacktoberfest 2024](https://img.shields.io/badge/Hacktoberfest-2024-ff6f00?logo=github)
+
+---
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
