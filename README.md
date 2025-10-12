@@ -59,8 +59,9 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 ---
 
 # Badges
+[![An image of @inkeskdozing's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/inkeskdozing)](https://holopin.io/@inkeskdozing)
 [![Hacktoberfest 2025 Badge](https://holopin.io/api/badge/cmgena8i0001kl2042fje5p8g)](https://www.holopin.io/hacktoberfest2025/userbadge/cmgena8i0001kl2042fje5p8g)
-![Hacktoberfest 2024](https://img.shields.io/badge/Hacktoberfest-2025-ff6f00?logo=github)
+![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-ff6f00?logo=github)
 
 ---
 
