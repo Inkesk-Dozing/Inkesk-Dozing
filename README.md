@@ -60,8 +60,6 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 
 # Badges
 [![An image of @inkeskdozing's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/inkeskdozing)](https://holopin.io/@inkeskdozing)
-[![Hacktoberfest 2025 Badge](https://holopin.io/api/badge/cmgena8i0001kl2042fje5p8g)](https://www.holopin.io/hacktoberfest2025/userbadge/cmgena8i0001kl2042fje5p8g)
-![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-ff6f00?logo=github)
 
 ---
 
@@ -74,6 +72,7 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 <!--START_SECTION:activity-->
 <h2><strong>profileO</strong></h2>
 
+[![wakatime](https://wakatime.com/badge/user/4bef47ca-fb26-4190-b32f-9ac0e965c5c0.svg)](https://wakatime.com/@4bef47ca-fb26-4190-b32f-9ac0e965c5c0)
 ![Inkesk Commit Activity](https://img.shields.io/github/commit-activity/y/Inkesk-Dozing/profileO)
 ![Inkesk Last Commit](https://img.shields.io/github/last-commit/Inkesk-Dozing/profileO)
 <!--END_SECTION:activity-->
