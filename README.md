@@ -72,7 +72,7 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 <!--START_SECTION:activity-->
 <h2><strong>profileO</strong></h2>
 
-[![wakatime](https://wakatime.com/badge/user/Inkesk_Dozing.svg)](https://wakatime.com/@Inkesk_Dozing)
+[![wakatime](https://wakatime.com/badge/user/4bef47ca-fb26-4190-b32f-9ac0e965c5c0.svg)](https://wakatime.com/@4bef47ca-fb26-4190-b32f-9ac0e965c5c0)
 ![Inkesk Commit Activity](https://img.shields.io/github/commit-activity/y/Inkesk-Dozing/profileO)
 ![Inkesk Last Commit](https://img.shields.io/github/last-commit/Inkesk-Dozing/profileO)
 <!--END_SECTION:activity-->
