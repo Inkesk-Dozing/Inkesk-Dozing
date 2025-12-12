@@ -96,7 +96,7 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 -->
 ![Github_Metrics](https://raw.githubusercontent.com/Inkesk-Dozing/Github-Metrics/main/github-metrics.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=Inkesk-Dozing&show_icons=true&theme=transparent&bg_color=010101&text_color=B8C0FF&title_color=A1E3D8&icon_color=E6B87D&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Inkesk's%20GitHub%20Stats&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=Inkesk-Dozing&show_icons=true&theme=transparent&bg_color=010101&text_color=B8C0FF&title_color=A1E3D8&icon_color=E6B87D&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Inkesk's%20GitHub%20Stats&include_all_commits=false)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Inkesk-Dozing&limit=5&theme=dark&combine_all_yearly_contributions=true&include_all_commits=true&custom_title=Inkesk's%20GitHub%20Contributor%20Stats)
