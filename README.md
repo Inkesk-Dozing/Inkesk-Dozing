@@ -1,3 +1,8 @@
+<!--Header--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=header"/>
+</p>
+
 ## Hi there👋, My-Physical-Self Harsh Dev Jha
 
 <div align="center">
@@ -22,49 +27,78 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...Social links below with svg 😁
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...Creatorless~
+- ⚡ Fun fact: ...Creatorless/Creator~
 
-## Join My Discord Community server for [eOzka](https://discord.gg/4tPTQxTRAq)
+[![wakatime](https://wakatime.com/badge/user/4bef47ca-fb26-4190-b32f-9ac0e965c5c0.svg)](https://wakatime.com/@4bef47ca-fb26-4190-b32f-9ac0e965c5c0)
 
-### About
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation" width="100%">
+<!-- ![Inkesk Commit Activity](https://img.shields.io/github/commit-activity/y/Inkesk-Dozing/profileO)
+![Inkesk Last Commit](https://img.shields.io/github/last-commit/Inkesk-Dozing/profileO) -->
+
+## Discord Community
+<!--## Join My Discord Community server for [eOzka](https://discord.gg/4tPTQxTRAq) --->
+
 
 <div align="center">
-
-# 💻 Tech Stack
-
-
-<!-- ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) -->
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)  
-
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white)  
   
+## 💻 Tech Stack
+
+<table border="0" width="100%">
+  <tr>
+    <td width="45%" align="center" valign="middle">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./Assets/Skills_Animation_Dark.gif">
+          <source media="(prefers-color-scheme: light)" srcset="./Assets/Skills_Animation_White.gif">
+          <img src="./Assets/Skills_Animation_White.gif" alt="Skills Animation" width="100%">
+        </picture>
+    </td>
+    <td width="55%" valign="middle">      
+      <h3 align="left">🎯 Learning Focus</h3>
+      <ul>
+        <li>Deepening knowledge in <b>Machine Learning & AI</b>.</li>
+        <li>Exploring advanced <b>React.js</b> patterns.</li>
+        <li>Mastering <b>Cloud Computing</b> (AWS & Azure).</li>
+      </ul>
+      <h3 align="left">🛠️ Current Tech Stack</h3>
+      <div align="center">
+        <!-- ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) -->
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+        <br/>
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+        <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+        <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
+        <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" />
+        <br/>        
+        <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+        <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+
 ## 🌐 Socials
 [![My_Discord](https://img.shields.io/badge/My-Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/users/1422240070634700834)
-[![Discord Server](https://img.shields.io/badge/eOzka-Server-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg//4tPTQxTRAq)
+<!--[![Discord Server](https://img.shields.io/badge/eOzka-Server-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg//4tPTQxTRAq)-->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uff_thedifficulty)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-dev-jha-primus)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ae)  
@@ -87,28 +121,49 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 
 <div align="center">
   
-<!-- GitHub Top Lang -->
-
-![Inkesk Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inkesk-Dozing&layout=compact&include_all_commits=true&langs_count=20&hide_progress=false&stat_format=bytes)
-
-<!-- GitHub Stats
-![Github_Metrics](https://github.com/Inkesk-Dozing/Github-Metrics/blob/main/github-metrics.svg)
--->
+<!-- GitHub Metrics --> 
 ![Github_Metrics](https://raw.githubusercontent.com/Inkesk-Dozing/Github-Metrics/main/github-metrics.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=Inkesk-Dozing&show_icons=true&theme=transparent&bg_color=010101&text_color=B8C0FF&title_color=A1E3D8&icon_color=E6B87D&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Inkesk's%20GitHub%20Stats&include_all_commits=false)
+<!-- Table for rest metrics -->
+<table align="center" width="100%" cellpadding="10" border="0">
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=inkesk-dozing&count_private=true&show_icons=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Inkesk's%20GitHub%20Stats&include_all_commits=false&hide_border=true" alt="Inkesk Stats" />
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://github-contributor-stats.vercel.app/api?username=Inkesk-Dozing&limit=3&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&combine_all_yearly_contributions=true&include_all_commits=true&custom_title=Inkesk's%20Contributor%20Stats" alt="Contributor Stats" />
+    </td>
+  </tr>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Inkesk-Dozing&limit=5&theme=dark&combine_all_yearly_contributions=true&include_all_commits=true&custom_title=Inkesk's%20GitHub%20Contributor%20Stats)
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=inkesk-dozing&layout=compact&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=true" alt="Top Languages" />
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <a href="https://github.com/inkesk-dozing/entab-d">
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=inkesk-dozing&repo=entab-d&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&show_owner=true&hide_border=true" alt="Entab-D Pinned" />
+      </a>
+    </td>
+  </tr>
 
-<!-- GitHub Streak Stats 
-![Inkesk GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=inkesk-dozing&theme=dark&hide_border=false)
--->
-![Inkesk GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inkesk-Dozing&theme=custom&background=010101&border=2c2c2c&ring=A1E3D8&fire=E6B87D&currStreakNum=B8C0FF&sideNums=CCCCCC&currStreakLabel=A1E3D8&sideLabels=999999&dates=666666&include_all_commits=true)
+  <tr>
+    <td align="center" colspan="2" valign="middle">
+      <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=inkesk-dozing&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&currStreakLabel=c56a90&hide_border=true" alt="Inkesk Streak" />
+    </td>
+  </tr>
 
-
-<!-- GitHub Trophy -->
-[![Inkesk Trophy](https://github-profile-trophy.vercel.app/?username=Inkesk-Dozing&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy&include_all_commits=true)
+  <tr>
+    <td align="center" colspan="2" valign="middle">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=inkesk-dozing&theme=radical&no-bg=true&row=2&column=9&margin-w=20&margin-h=20&v=3">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=inkesk-dozing&theme=radical&no-bg=true&row=2&column=9&margin-w=20&margin-h=20&v=3">
+          <img src="https://github-profile-trophy-ruddy.vercel.app/?username=inkesk-dozing&theme=radical&no-bg=true&row=2&column=9&margin-w=20&margin-h=20&v=3" alt="Inkesk Trophies">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- GitHub Graph -->
 ![Inkesk Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=Inkesk-Dozing&include_all_commits=true)
@@ -116,7 +171,6 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 <!-- Custom Badges -->
 ![Inkesk Watchers](https://img.shields.io/badge/Total%20Watchers-42-A1E3D8?style=for-the-badge&logo=github&logoColor=010101&labelColor=010101)
 ![Inkesk Contributions](https://img.shields.io/badge/Contributions%20in%202025-1200%2B-A1E3D8?style=for-the-badge&logo=github&logoColor=010101&labelColor=010101)
-
 
 
 ---
@@ -132,10 +186,6 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 
 <!--START_SECTION:activity-->
 <h2><strong>profileO</strong></h2>
-
-[![wakatime](https://wakatime.com/badge/user/4bef47ca-fb26-4190-b32f-9ac0e965c5c0.svg)](https://wakatime.com/@4bef47ca-fb26-4190-b32f-9ac0e965c5c0)
-![Inkesk Commit Activity](https://img.shields.io/github/commit-activity/y/Inkesk-Dozing/profileO)
-![Inkesk Last Commit](https://img.shields.io/github/last-commit/Inkesk-Dozing/profileO)
 <!--END_SECTION:activity-->
 
 
@@ -174,3 +224,9 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Inkesk-Dozing&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 -->
 </div>
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
