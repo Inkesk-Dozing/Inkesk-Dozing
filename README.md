@@ -140,8 +140,8 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=inkesk-dozing&layout=compact&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=true" alt="Top Languages" />
     </td>
     <td align="center" width="50%" valign="middle">
-      <a href="https://github.com/inkesk-dozing/entab-d">
-        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=inkesk-dozing&repo=entab-d&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&show_owner=true&hide_border=true" alt="Entab-D Pinned" />
+      <a href="https://github.com/eozkull/stress-calculator">
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=eozkull&repo=stress-calculator&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&show_owner=true&hide_border=true" alt="stress-calculator Pinned" />
       </a>
     </td>
   </tr>
