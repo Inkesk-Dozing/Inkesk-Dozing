@@ -1,9 +1,9 @@
+## Hi there, MySelf Harsh Dev Jha 👋.
+
 <!--Header--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=header"/>
 </p>
-
-## Hi there👋, My-Physical-Self Harsh Dev Jha
 
 <div align="center">
 
