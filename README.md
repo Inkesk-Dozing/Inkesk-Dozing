@@ -248,19 +248,19 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
     </td>
     <!-- Right Column - Top Row: GitHub Stats -->
     <td align="center" width="50%" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=inkesk-dozing&count_private=true&show_icons=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Inkesk's%20GitHub%20Stats&include_all_commits=false&hide_border=true" alt="Inkesk Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Inkesk-Dozing&count_private=true&show_icons=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Inkesk's%20GitHub%20Stats&include_all_commits=false&hide_border=true" alt="Inkesk Stats" width="100%" />
     </td>
   </tr>
   <tr>
     <!-- Right Column - Bottom Row: Top Languages -->
     <td align="center" width="50%" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkesk-dozing&layout=compact&langs_count=6&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=true" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkesk-Dozing&layout=compact&langs_count=6&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=true" alt="Top Languages" width="100%" />
     </td>
   </tr>
 
   <tr>
     <td align="center" colspan="2" valign="middle">
-      <img src="https://streak-stats.demolab.com/?user=inkesk-dozing&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&currStreakLabel=c56a90&hide_border=true" alt="Inkesk Streak" />
+      <img src="https://streak-stats.demolab.com/?user=Inkesk-Dozing&background=135,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&currStreakLabel=c56a90&hide_border=true" alt="Inkesk Streak" />
     </td>
   </tr>
 
@@ -268,9 +268,9 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
     <td align="center" colspan="2" valign="middle">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.devomb.com/?username=inkesk-dozing&theme=radical&no-bg=true&row=2&column=10&margin-w=20&margin-h=20&v=3">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.devomb.com/?username=inkesk-dozing&theme=radical&no-bg=true&row=2&column=10&margin-w=20&margin-h=20&v=3">
-          <img src="https://github-trophies.devomb.com/?username=inkesk-dozing&theme=radical&no-bg=true&row=2&column=10&margin-w=20&margin-h=20&v=3" alt="Inkesk Trophies" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.devomb.com/?username=Inkesk-Dozing&theme=radical&no-bg=true&row=2&column=10&margin-w=20&margin-h=20&v=3">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.devomb.com/?username=Inkesk-Dozing&theme=radical&no-bg=true&row=2&column=10&margin-w=20&margin-h=20&v=3">
+          <img src="https://github-trophies.devomb.com/?username=Inkesk-Dozing&theme=radical&no-bg=true&row=2&column=10&margin-w=20&margin-h=20&v=3" alt="Inkesk Trophies" />
         </picture>
       </a>
     </td>
