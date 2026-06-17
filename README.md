@@ -25,6 +25,7 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Inkesk-Dozing?style=for-the-badge&color=c56a90&label=FOLLOWERS&labelColor=0d1117" alt="Followers" />
   &nbsp;&nbsp;
+  <img src="./Assets/repositories.svg?v=2" alt="Repositories" />
 </div>
 
 <br/>
@@ -260,7 +261,7 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 
   <tr>
     <td align="center" colspan="2" valign="middle">
-      <img src="https://streak-stats.demolab.com/?user=Inkesk-Dozing&background=135,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&currStreakLabel=c56a90&hide_border=true" alt="Inkesk Streak" />
+      <img src="./Assets/streak-stats.svg?v=2" alt="Inkesk Streak" />
     </td>
   </tr>
 
@@ -282,18 +283,26 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 
 
 
-<!-- Contribution Visualizations in details dropdown to keep profile clean -->
-<details>
-  <summary><b>🎬 View Contribution Art (Snake & 3D Isometric Calendar)</b></summary>
-  <br/>
-  <div align="center">
-    <h4>🐍 Contribution Snake</h4>
-    <img src="./Assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="90%" />
-    <br/><br/>
-    <h4>🎮 3D Isometric Calendar</h4>
-    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" width="90%" />
-  </div>
-</details>
+## 🎬 Contribution Art
+
+<div align="center">
+  <h4>🐍 Contribution Snake</h4>
+  <img src="./Assets/github-contribution-grid-snake.svg?v=2" alt="GitHub Contribution Snake" width="100%" />
+  <br/><br/>
+  <h4>🎮 3D Isometric Calendars</h4>
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <h5>Standard Theme</h5>
+        <img src="./Assets/profile-3d-contrib/profile-green-animate.svg?v=2" alt="3D Contribution Calendar" width="100%" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h5>Night Theme</h5>
+        <img src="./Assets/profile-3d-contrib/profile-night-view.svg?v=2" alt="3D Night View Contribution Calendar" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
@@ -309,6 +318,11 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 ## 📌 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. ℹ️ Assigned PR [#4](https://github.com/eOzkull/eOzka/pull/4) in [eOzkull/eOzka](https://github.com/eOzkull/eOzka)
+2. ℹ️ Assigned PR [#4](https://github.com/eOzkull/eOzka/pull/4) in [eOzkull/eOzka](https://github.com/eOzkull/eOzka)
+3. 🗣 Commented on [#4](https://github.com/eOzkull/eOzka/pull/4#issuecomment-4712796676) in [eOzkull/eOzka](https://github.com/eOzkull/eOzka)
+4. 🎉 Merged PR [#6](https://github.com/eOzkull/eOzka/pull/6) in [eOzkull/eOzka](https://github.com/eOzkull/eOzka)
+5. 🔒 Closed issue [#3](https://github.com/eOzkull/eOzka/issues/3) in [eOzkull/eOzka](https://github.com/eOzkull/eOzka)
 <!--END_SECTION:activity-->
 
 <br/>
