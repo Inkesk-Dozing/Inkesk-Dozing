@@ -20,13 +20,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Update Recent Activity
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "chore: update recent activity feed"
-
       - name: Generate 3D Contribution Calendar
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
@@ -51,7 +44,7 @@ jobs:
           fi
 
           if [ "$TOKEN" == "${{ secrets.GITHUB_TOKEN }}" ]; then
-            REPOS=$(curl -s -H "Authorization: token $TOKEN" https://api.github.com/users/Inkesk-Dozing | jq '.public_repos // 0')
+            REPOS=$(curl -s -H "Authorization: token $TOKEN" https://api.github.com/users/inkesk-dozing | jq '.public_repos // 0')
           else
             USER_DATA=$(curl -s -H "Authorization: token $TOKEN" https://api.github.com/user)
             PUBLIC_REPOS=$(echo "$USER_DATA" | jq '.public_repos // 0')
@@ -61,13 +54,13 @@ jobs:
 
           echo "Total repositories: $REPOS"
           mkdir -p Assets
-          curl -s "https://img.shields.io/badge/REPOSITORIES-${REPOS}-c56a90?style=for-the-badge&labelColor=0d1117" -o Assets/repositories.svg
+          curl -s "https://img.shields.io/badge/REPOSITORIES-${REPOS}-d4b23c?style=for-the-badge&labelColor=0d1117" -o Assets/repositories.svg
 
       - name: Generate Streak Stats SVG
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           token: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
-          options: user=Inkesk-Dozing&background=135,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&currStreakLabel=c56a90&hide_border=true
+          options: user=inkesk-dozing&background=135,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&currStreakLabel=c56a90&hide_border=true
           path: Assets/streak-stats.svg
 
       - name: Move 3D Calendar to Assets
@@ -80,7 +73,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add Assets/ || true
-          git commit -m "chore: regenerate profile metrics (snake, repository count, streak stats & 3d contribution calendar)" || exit 0
-          git pull --rebase origin main || true
-          git push
+          mkdir -p ../temp_assets
+          cp -r Assets/* ../temp_assets/
+          git checkout --orphan metrics
+          git rm -rf .
+          mkdir -p Assets
+          cp -r ../temp_assets/* Assets/
+          git add Assets/
+          git commit -m "chore: regenerate profile metrics"
+          git push origin metrics --force

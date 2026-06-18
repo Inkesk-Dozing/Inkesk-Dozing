@@ -21,16 +21,16 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 
 <!-- Custom Badges (Live Status) -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Inkesk-Dozing&color=c56a90&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?query=count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2Finkesk-dozing%2Fviews%2Fup&style=for-the-badge&color=%23d4b23c&label=PROFILE%20VIEWS&labelColor=0d1117&v=3" alt="Profile Views" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Inkesk-Dozing?style=for-the-badge&color=c56a90&label=FOLLOWERS&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/inkesk-dozing?style=for-the-badge&color=d4b23c&label=FOLLOWERS&labelColor=0d1117&v=3" alt="Followers" />
   &nbsp;&nbsp;
-  <img src="./Assets/repositories.svg?v=2" alt="Repositories" />
+  <img src="https://raw.githubusercontent.com/Inkesk-Dozing/Inkesk-Dozing/metrics/Assets/repositories.svg" alt="Repositories" />
 </div>
 
 <br/>
 
-- 🔭 I’m currently working on OSKA ---> ØSKA
+- 🔭 I’m currently working on OSKA ---> ØSKA ---> **eOzka**
 - 🌱 I’m currently Proficient in  HTMl|CSS|JAVAscript|PYTHON|REACT| and am Learning C|Next.JS|TYPESCRIPT|TAILWIND
 - 👯 I’m looking to collaborate on ... eOzka project's and Community 
 - 🤔 I’m looking for help with ...eOzka project's and Community
@@ -39,21 +39,70 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...Creatorless/Creator~
 
-## 🏢 About eOzka
-  eOzka is a Operational Parent Holding Company, that owns sub-companies, subsidiaries, and independent projects. It acts as an umbrella organization providing strategic direction, financial oversight, and technical governance across its entire portfolio.
+<div align="center">
 
-- 🐙 **GitHub Organization:** [eozkull](https://github.com/eozkull)
-- 🌐 **Official Page:** [www.eOzka.com](https://eozka.com)
-- 💬 **Discord Community:** [Join eOzka Server](https://discord.gg/yPtqPT9E8T)
+## 🌐 Wanna Connect ? My Socials Are ~
+
+
+[![My_Discord](https://img.shields.io/badge/MyDiscord-tinkerall-%237289DA?style=flat&logo=discord&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-ID-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/uff_thedifficulty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ID-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-dev-jha-primus)
+[![X](https://img.shields.io/badge/X-ID-%23000000?style=flat&logo=x&logoColor=white)](https://x.com/abviyl) 
+[![email](https://img.shields.io/badge/Email-ID-D14836?logo=gmail&logoColor=white)](mailto:inkeskdozing@gmail.com)  
+<!--
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@<username>)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/<username>) -->
+
+
+## 🏢 The eOzka Ecosystem
+
+
+  <img src="./Assets/eOzka_Banner.svg" alt="eOzka Banner" width="100%" />
+
+</div>
+
+eOzka is an **Operational Parent Holding Company** pioneering autonomous systems, cognitive architectures, and hardware-native integrations. We govern, fund, and architect a portfolio of next-generation projects designed to push the boundaries of human-machine collaboration.
+
+We incubate and steer independent research subsidiaries dedicated to OSKA and augmenting sentient capabilities. Our mission is to establish sovereign, decentralized infrastructure capable of local, bare-metal intelligence execution.
+
+<table width="100%" cellpadding="15" cellspacing="0" border="0" style="border-collapse: collapse; margin-top: 15px; margin-bottom: 15px;">
+  <tr style="border: none;">
+    <td width="33%" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+      <h4 align="center" style="color: #ffeb95; margin-top: 0;">🔮 Vision</h4>
+      <p style="color: #8b949e; font-size: 13px; line-height: 1.6;" align="justify">
+        Architecting the transition from static software to agentic, hardware-integrated intelligence. We design systems that understand context, learn dynamically, and execute flawlessly.
+      </p>
+    </td>
+    <td width="33%" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+      <h4 align="center" style="color: #ffeb95; margin-top: 0;">⚙️ Governance</h4>
+      <p style="color: #8b949e; font-size: 13px; line-height: 1.6;" align="justify">
+        Providing unified technical direction, operational oversight, and strict security compliance protocols across all independent research projects and commercial subsidiaries.
+      </p>
+    </td>
+    <td width="33%" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+      <h4 align="center" style="color: #ffeb95; margin-top: 0;">🛠️ Innovation</h4>
+      <p style="color: #8b949e; font-size: 13px; line-height: 1.6;" align="justify">
+        Incubating self-evolving software modules, neural voice-synthesis layers, and low-latency computer vision pipelines running natively on local hardware.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+[![GitHub Organization](https://img.shields.io/badge/GitHub_Organization-eozkull-%23d4b23c?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/eozkull)
+&nbsp;&nbsp;
+[![Official Website](https://img.shields.io/badge/Official_Website-eozka.com-%23d4b23c?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117)](https://eozka.com)
+&nbsp;&nbsp;
+[![Discord Community](https://img.shields.io/badge/Discord_Community-Join_Server-%23d4b23c?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.gg/yPtqPT9E8T)
+
+</div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation" width="100%">
-<!-- ![Inkesk Commit Activity](https://img.shields.io/github/commit-activity/y/Inkesk-Dozing/profileO)
-![Inkesk Last Commit](https://img.shields.io/github/last-commit/Inkesk-Dozing/profileO) -->
-
-## Discord Community
-## Join My Discord Community server for [eOzka](https://discord.gg/yPtqPT9E8T) -
 
 
 <div align="center">
@@ -64,9 +113,9 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
   <tr>
     <td width="45%" align="center" valign="middle">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./Assets/Skills_Animation_Dark.gif">
-          <source media="(prefers-color-scheme: light)" srcset="./Assets/Skills_Animation_White.gif">
-          <img src="./Assets/Skills_Animation_White.gif" alt="Skills Animation" width="100%">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inkesk-dozing/inkesk-dozing/main/Assets/Skills_Animation_Dark.gif">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inkesk-dozing/inkesk-dozing/main/Assets/Skills_Animation_White.gif">
+          <img src="https://raw.githubusercontent.com/inkesk-dozing/inkesk-dozing/main/Assets/Skills_Animation_White.gif" alt="Skills Animation" width="100%">
         </picture>
     </td>
     <td width="55%" valign="top">      
@@ -125,19 +174,6 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
     </td>
   </tr>
 </table>
-
-
-## 🌐 Socials
-[![My_Discord](https://img.shields.io/badge/MyDiscord-tinkerall-%237289DA?style=flat&logo=discord&logoColor=white)]()
-[![Discord Server](https://img.shields.io/badge/eOzka-Server-%237289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/yPtqPT9E8T)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/uff_thedifficulty)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-dev-jha-primus)
-[![X](https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white)](https://x.com/abviyl)  
-<!--
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@<username>)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/<username>) -->
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inkeskdozing@gmail.com) 
-
   
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/inkesk/)
@@ -164,7 +200,7 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
         <li>Tested & compatible with Windows webcam and Raspberry Pi GPIO with <b>98% sensor precision</b>.</li>
       </ul>
       <br/>
-      <a href="https://github.com/Inkesk-Dozing/N.A.V.R.A.A.H" target="_blank">
+      <a href="https://github.com/inkesk-dozing/N.A.V.R.A.A.H" target="_blank">
         <img src="https://img.shields.io/badge/REPOSITORY-GITHUB.COM%2FINKESK--DOZING%2FN.A.V.R.A.A.H-c56a90?style=for-the-badge&logo=github" alt="Repository Link" />
       </a>
     </td>
@@ -245,23 +281,23 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
   <tr>
     <!-- Left Column: GitHub Metrics (spans 2 rows) -->
     <td align="center" width="50%" valign="middle" rowspan="2">
-      <img src="https://raw.githubusercontent.com/Inkesk-Dozing/Github-Metrics/main/github-metrics.svg" alt="Github Metrics" width="100%" />
+      <img src="https://raw.githubusercontent.com/inkesk-dozing/Github-Metrics/main/github-metrics.svg" alt="Github Metrics" width="100%" />
     </td>
     <!-- Right Column - Top Row: GitHub Stats -->
     <td align="center" width="50%" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=Inkesk-Dozing&count_private=true&show_icons=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Inkesk's%20GitHub%20Stats&include_all_commits=false&hide_border=true" alt="Inkesk Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=inkesk-dozing&count_private=true&show_icons=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=inkesk's%20GitHub%20Stats&include_all_commits=false&hide_border=true" alt="Inkesk Stats" width="100%" />
     </td>
   </tr>
   <tr>
     <!-- Right Column - Bottom Row: Top Languages -->
     <td align="center" width="50%" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkesk-Dozing&layout=compact&langs_count=6&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=true" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkesk-dozing&layout=compact&langs_count=6&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=true" alt="Top Languages" width="100%" />
     </td>
   </tr>
 
   <tr>
     <td align="center" colspan="2" valign="middle">
-      <img src="./Assets/streak-stats.svg?v=2" alt="Inkesk Streak" />
+      <img src="https://raw.githubusercontent.com/Inkesk-Dozing/Inkesk-Dozing/metrics/Assets/streak-stats.svg" alt="Inkesk Streak" />
     </td>
   </tr>
 
@@ -269,9 +305,9 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
     <td align="center" colspan="2" valign="middle">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.devomb.com/?username=Inkesk-Dozing&theme=radical&no-bg=true&row=2&column=10&margin-w=20&margin-h=20&v=3">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.devomb.com/?username=Inkesk-Dozing&theme=radical&no-bg=true&row=2&column=10&margin-w=20&margin-h=20&v=3">
-          <img src="https://github-trophies.devomb.com/?username=Inkesk-Dozing&theme=radical&no-bg=true&row=2&column=10&margin-w=20&margin-h=20&v=3" alt="Inkesk Trophies" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.devomb.com/?username=inkesk-dozing&theme=radical&no-bg=true&row=2&column=10&margin-w=20&margin-h=20&v=3">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.devomb.com/?username=inkesk-dozing&theme=radical&no-bg=true&row=2&column=10&margin-w=20&margin-h=20&v=3">
+          <img src="https://github-trophies.devomb.com/?username=inkesk-dozing&theme=radical&no-bg=true&row=2&column=10&margin-w=20&margin-h=20&v=3" alt="Inkesk Trophies" />
         </picture>
       </a>
     </td>
@@ -279,7 +315,7 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 </table>
 
 <!-- GitHub Graph -->
-![Inkesk Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=Inkesk-Dozing&include_all_commits=true)
+![Inkesk Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=inkesk-dozing&include_all_commits=true)
 
 
 
@@ -287,18 +323,18 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 
 <div align="center">
   <h4>🐍 Contribution Snake</h4>
-  <img src="./Assets/github-contribution-grid-snake.svg?v=2" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Inkesk-Dozing/Inkesk-Dozing/metrics/Assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
   <br/><br/>
   <h4>🎮 3D Isometric Calendars</h4>
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center" valign="top">
         <h5>Standard Theme</h5>
-        <img src="./Assets/profile-3d-contrib/profile-green-animate.svg?v=2" alt="3D Contribution Calendar" width="100%" />
+        <img src="https://raw.githubusercontent.com/Inkesk-Dozing/Inkesk-Dozing/metrics/Assets/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" width="100%" />
       </td>
       <td width="50%" align="center" valign="top">
         <h5>Night Theme</h5>
-        <img src="./Assets/profile-3d-contrib/profile-night-view.svg?v=2" alt="3D Night View Contribution Calendar" width="100%" />
+        <img src="https://raw.githubusercontent.com/Inkesk-Dozing/Inkesk-Dozing/metrics/Assets/profile-3d-contrib/profile-night-view.svg" alt="3D Night View Contribution Calendar" width="100%" />
       </td>
     </tr>
   </table>
@@ -314,16 +350,6 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 ---
 
 </div> <!-- center div for imag icons svg's~ -->
-
-## 📌 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#4](https://github.com/eOzkull/eOzka/pull/4) in [eOzkull/eOzka](https://github.com/eOzkull/eOzka)
-2. ℹ️ Assigned PR [#4](https://github.com/eOzkull/eOzka/pull/4) in [eOzkull/eOzka](https://github.com/eOzkull/eOzka)
-3. 🗣 Commented on [#4](https://github.com/eOzkull/eOzka/pull/4#issuecomment-4712796676) in [eOzkull/eOzka](https://github.com/eOzkull/eOzka)
-4. 🎉 Merged PR [#6](https://github.com/eOzkull/eOzka/pull/6) in [eOzkull/eOzka](https://github.com/eOzkull/eOzka)
-5. 🔒 Closed issue [#3](https://github.com/eOzkull/eOzka/issues/3) in [eOzkull/eOzka](https://github.com/eOzkull/eOzka)
-<!--END_SECTION:activity-->
 
 <br/>
 
@@ -349,7 +375,7 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 [![Typing SVG_2](https://readme-typing-svg.demolab.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Aur+Kya+Haal+?+Enjoi!+%F0%9F%91%8D&color=FFC0CB)](https://github.com/denvercoder1/readme-typing-svg)
 
 <!--
-**Inkesk-Dozing/Inkesk-Dozing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**inkesk-dozing/inkesk-dozing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -362,7 +388,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![](https://visitcount.itsvg.in/api?id=Inkesk-Dozing&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=inkesk-dozing&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 -->
 </div>
 
