@@ -55,13 +55,66 @@ jobs:
           echo "Total repositories: $REPOS"
           mkdir -p Assets
           curl -s "https://img.shields.io/badge/REPOSITORIES-${REPOS}-d4b23c?style=for-the-badge&labelColor=0d1117" -o Assets/repositories.svg
-
+          
       - name: Generate Streak Stats SVG
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           token: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
           options: user=inkesk-dozing&background=135,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&currStreakLabel=c56a90&hide_border=true
           path: Assets/streak-stats.svg
+
+      - name: Generate Stats and Language Cards with Fallback
+        run: |
+          URL_STATS_PRIMARY="https://github-readme-stats.vercel.app/api?username=inkesk-dozing&count_private=true&show_icons=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=inkesk's%20GitHub%20Stats&include_all_commits=false&hide_border=true"
+          URL_STATS_FALLBACK="https://github-stats-extended.vercel.app/api?username=inkesk-dozing&count_private=true&show_icons=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=inkesk's%20GitHub%20Stats&include_all_commits=false&hide_border=true"
+          
+          URL_LANGS_PRIMARY="https://github-readme-stats.vercel.app/api/top-langs/?username=inkesk-dozing&layout=compact&langs_count=6&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=true"
+          URL_LANGS_FALLBACK="https://github-stats-extended.vercel.app/api/top-langs/?username=inkesk-dozing&layout=compact&langs_count=6&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=true"
+
+          mkdir -p Assets
+
+          download_with_fallback() {
+            local primary_url="$1"
+            local fallback_url="$2"
+            local output_path="$3"
+            local temp_file="${output_path}.tmp"
+
+            echo "Attempting to download from primary: $primary_url"
+            if curl -s -f -L -m 15 "$primary_url" -o "$temp_file" && grep -q "<svg" "$temp_file"; then
+              mv "$temp_file" "$output_path"
+              echo "Successfully downloaded from primary."
+              return 0
+            fi
+
+            echo "Primary failed. Attempting fallback: $fallback_url"
+            if curl -s -f -L -m 15 "$fallback_url" -o "$temp_file" && grep -q "<svg" "$temp_file"; then
+              mv "$temp_file" "$output_path"
+              echo "Successfully downloaded from fallback."
+              return 0
+            fi
+
+            echo "Fallback failed. Checking local file."
+            rm -f "$temp_file"
+            if [ -f "$output_path" ]; then
+              echo "Keeping existing SVG file: $output_path"
+              return 0
+            fi
+
+            local remote_history_url="https://raw.githubusercontent.com/inkesk-dozing/inkesk-dozing/metrics/$output_path"
+            echo "Attempting to retrieve last successful SVG from remote: $remote_history_url"
+            if curl -s -f -L -m 15 "$remote_history_url" -o "$temp_file" && grep -q "<svg" "$temp_file"; then
+              mv "$temp_file" "$output_path"
+              echo "Successfully restored from remote metrics branch."
+              return 0
+            fi
+
+            echo "Restoration failed. Creating custom placeholder SVG."
+            echo "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OTUiIGhlaWdodD0iMTk1IiB2aWV3Qm94PSIwIDAgNDk1IDE5NSI+CiAgPHJlY3QgeD0iMC41IiB5PSIwLjUiIHdpZHRoPSI0OTQiIGhlaWdodD0iMTk0IiByeD0iNC41IiBmaWxsPSIjMDAwMDAwIiBzdHJva2U9IiNjNTZhOTAiIC8+CiAgPHRleHQgeD0iNTAlIiB5PSI0NSUiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSInU2Vnb2UgVUknLCBSb2JvdG8sIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LXNpemU9IjE2IiBmaWxsPSIjZmZlYjk1Ij4KICAgIFN0YXRzIFNlcnZpY2UgT2ZmbGluZQogIDwvdGV4dD4KICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidTZWdvZSBVSScsIFJvYm90bywgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0iI2ZmZmZmZiI+CiAgICBQbGVhc2UgY2hlY2sgYmFjayBsYXRlciBvciB2aXNpdCBnaXRodWIuY29tL2lua2Vzay1kb3ppbmcKICA8L3RleHQ+Cjwvc3ZnPg==" | base64 -d > "$output_path"
+            return 0
+          }
+
+          download_with_fallback "$URL_STATS_PRIMARY" "$URL_STATS_FALLBACK" "Assets/github-stats.svg"
+          download_with_fallback "$URL_LANGS_PRIMARY" "$URL_LANGS_FALLBACK" "Assets/top-languages.svg"
 
       - name: Move 3D Calendar to Assets
         run: |

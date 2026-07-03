@@ -25,7 +25,7 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/inkesk-dozing?style=for-the-badge&color=d4b23c&label=FOLLOWERS&labelColor=0d1117&v=3" alt="Followers" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Inkesk-Dozing/Inkesk-Dozing/metrics/Assets/repositories.svg" alt="Repositories" />
+  <img src="https://raw.githubusercontent.com/inkesk-dozing/inkesk-dozing/metrics/Assets/repositories.svg" alt="Repositories" />
 </div>
 
 <br/>
@@ -268,7 +268,7 @@ We incubate and steer independent research subsidiaries dedicated to OSKA and au
 
 <br/>
 
-## 🚀 GitHub Presense
+## 🚀 GitHub Presence
 
 <!-- ![Commit Activity](https://img.shields.io/github/commit-activity/y/Inkesk-Dozing/)
 ![Last Commit](https://img.shields.io/github/last-commit/Inkesk-Dozing/)
@@ -285,19 +285,19 @@ We incubate and steer independent research subsidiaries dedicated to OSKA and au
     </td>
     <!-- Right Column - Top Row: GitHub Stats -->
     <td align="center" width="50%" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=inkesk-dozing&count_private=true&show_icons=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=inkesk's%20GitHub%20Stats&include_all_commits=false&hide_border=true" alt="Inkesk Stats" width="100%" />
+      <img src="https://raw.githubusercontent.com/inkesk-dozing/inkesk-dozing/metrics/Assets/github-stats.svg" alt="Inkesk Stats" width="100%" />
     </td>
   </tr>
   <tr>
     <!-- Right Column - Bottom Row: Top Languages -->
     <td align="center" width="50%" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkesk-dozing&layout=compact&langs_count=6&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=true" alt="Top Languages" width="100%" />
+      <img src="https://raw.githubusercontent.com/inkesk-dozing/inkesk-dozing/metrics/Assets/top-languages.svg" alt="Top Languages" width="100%" />
     </td>
   </tr>
 
   <tr>
     <td align="center" colspan="2" valign="middle">
-      <img src="https://raw.githubusercontent.com/Inkesk-Dozing/Inkesk-Dozing/metrics/Assets/streak-stats.svg" alt="Inkesk Streak" />
+      <img src="https://raw.githubusercontent.com/inkesk-dozing/inkesk-dozing/metrics/Assets/streak-stats.svg" alt="Inkesk Streak" />
     </td>
   </tr>
 
@@ -323,18 +323,18 @@ We incubate and steer independent research subsidiaries dedicated to OSKA and au
 
 <div align="center">
   <h4>🐍 Contribution Snake</h4>
-  <img src="https://raw.githubusercontent.com/Inkesk-Dozing/Inkesk-Dozing/metrics/Assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/inkesk-dozing/inkesk-dozing/metrics/Assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
   <br/><br/>
   <h4>🎮 3D Isometric Calendars</h4>
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center" valign="top">
         <h5>Standard Theme</h5>
-        <img src="https://raw.githubusercontent.com/Inkesk-Dozing/Inkesk-Dozing/metrics/Assets/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" width="100%" />
+        <img src="https://raw.githubusercontent.com/inkesk-dozing/inkesk-dozing/metrics/Assets/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" width="100%" />
       </td>
       <td width="50%" align="center" valign="top">
         <h5>Night Theme</h5>
-        <img src="https://raw.githubusercontent.com/Inkesk-Dozing/Inkesk-Dozing/metrics/Assets/profile-3d-contrib/profile-night-view.svg" alt="3D Night View Contribution Calendar" width="100%" />
+        <img src="https://raw.githubusercontent.com/inkesk-dozing/inkesk-dozing/metrics/Assets/profile-3d-contrib/profile-night-view.svg" alt="3D Night View Contribution Calendar" width="100%" />
       </td>
     </tr>
   </table>
@@ -363,7 +363,7 @@ We incubate and steer independent research subsidiaries dedicated to OSKA and au
 <div align="center">
 
 ### ✍️ Random Dev says~
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
 
 **「 ... 」**
 
