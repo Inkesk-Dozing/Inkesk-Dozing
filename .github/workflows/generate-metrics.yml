@@ -116,6 +116,44 @@ jobs:
           download_with_fallback "$URL_STATS_PRIMARY" "$URL_STATS_FALLBACK" "Assets/github-stats.svg"
           download_with_fallback "$URL_LANGS_PRIMARY" "$URL_LANGS_FALLBACK" "Assets/top-languages.svg"
 
+      - name: Process Monotonic Profile Views Counter & State Storage
+        run: |
+          mkdir -p Assets
+          
+          BASE_OFFSET=${{ secrets.VIEW_COUNTER_OFFSET || 270 }}
+
+          PREV_COUNT=0
+          REMOTE_JSON_URL="https://raw.githubusercontent.com/inkesk-dozing/inkesk-dozing/metrics/Assets/views_data.json"
+          if curl -s -f -L -m 10 "$REMOTE_JSON_URL" -o temp_views.json 2>/dev/null; then
+            PREV_COUNT=$(jq '.count // 0' temp_views.json 2>/dev/null || echo 0)
+          fi
+          rm -f temp_views.json
+
+          LIVE_COUNT=0
+          KOMAREV_SVG=$(curl -s -f -L -m 10 "https://komarev.com/ghpvc/?username=inkesk-dozing" || true)
+          if [ -n "$KOMAREV_SVG" ]; then
+            EXTRACTED=$(echo "$KOMAREV_SVG" | grep -oP '(?<=<text[^>]*>)[0-9]+(?=</text>)' | tail -n 1 || echo 0)
+            LIVE_COUNT=${EXTRACTED:-0}
+          fi
+
+          TOTAL_COUNT=$PREV_COUNT
+          if [ "$LIVE_COUNT" -gt "$TOTAL_COUNT" ]; then
+            TOTAL_COUNT=$LIVE_COUNT
+          fi
+
+          FINAL_COUNT=$((TOTAL_COUNT + BASE_OFFSET))
+
+          cat <<EOF > Assets/views_data.json
+          {
+            "count": $TOTAL_COUNT,
+            "base_offset": $BASE_OFFSET,
+            "display_count": $FINAL_COUNT,
+            "updated_at": "$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          }
+          EOF
+
+          curl -s "https://img.shields.io/badge/PROFILE%20VIEWS-${FINAL_COUNT}-d4b23c?style=for-the-badge&labelColor=0d1117" -o Assets/profile-views.svg
+
       - name: Move 3D Calendar to Assets
         run: |
           mkdir -p Assets

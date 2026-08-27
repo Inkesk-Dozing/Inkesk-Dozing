@@ -21,7 +21,7 @@ OSKA is my trail, ØSKA is its echo.<br>Every glitch, every module, every signal
 
 <!-- Custom Badges (Live Status) -->
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?query=count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2Finkesk-dozing%2Fviews%2Fup&style=for-the-badge&color=%23d4b23c&label=PROFILE%20VIEWS&labelColor=0d1117&v=3" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=inkesk-dozing&color=d4b23c&style=for-the-badge" alt="Profile Views" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/inkesk-dozing?style=for-the-badge&color=d4b23c&label=FOLLOWERS&labelColor=0d1117&v=3" alt="Followers" />
   &nbsp;&nbsp;
