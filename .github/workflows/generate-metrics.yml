@@ -71,6 +71,12 @@ jobs:
           URL_LANGS_PRIMARY="https://github-readme-stats.vercel.app/api/top-langs/?username=inkesk-dozing&layout=compact&langs_count=6&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=true"
           URL_LANGS_FALLBACK="https://github-stats-extended.vercel.app/api/top-langs/?username=inkesk-dozing&layout=compact&langs_count=6&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=true"
 
+          URL_GRAPH_PRIMARY="https://github-activity-graph.vercel.app/graph?username=inkesk-dozing&bg_color=0d1117&title_color=c56a90&text_color=ffffff&line=ffeb95&point=ffeb95&area_color=441350&hide_border=true&area=true"
+          URL_GRAPH_FALLBACK="https://github-readme-activity-graph-alpha.vercel.app/graph?username=inkesk-dozing&bg_color=0d1117&title_color=c56a90&text_color=ffffff&line=ffeb95&point=ffeb95&area_color=441350&hide_border=true&area=true"
+
+          URL_TROPHIES_PRIMARY="https://github-trophies.devomb.com/?username=inkesk-dozing&theme=radical&no-bg=true&row=1&column=10"
+          URL_TROPHIES_FALLBACK="https://github-profile-trophy.vercel.app/?username=inkesk-dozing&theme=radical&no-bg=true&row=1&column=10"
+
           mkdir -p Assets
 
           download_with_fallback() {
@@ -115,6 +121,8 @@ jobs:
 
           download_with_fallback "$URL_STATS_PRIMARY" "$URL_STATS_FALLBACK" "Assets/github-stats.svg"
           download_with_fallback "$URL_LANGS_PRIMARY" "$URL_LANGS_FALLBACK" "Assets/top-languages.svg"
+          download_with_fallback "$URL_GRAPH_PRIMARY" "$URL_GRAPH_FALLBACK" "Assets/github-activity-graph.svg"
+          download_with_fallback "$URL_TROPHIES_PRIMARY" "$URL_TROPHIES_FALLBACK" "Assets/github-trophies.svg"
 
       - name: Process Monotonic Profile Views Counter & State Storage
         run: |

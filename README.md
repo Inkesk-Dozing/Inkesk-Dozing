@@ -304,18 +304,18 @@ We incubate and steer independent research subsidiaries dedicated to OSKA and au
   <tr>
     <td align="center" colspan="2" valign="middle">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.devomb.com/?username=inkesk-dozing&theme=radical&no-bg=true&row=2&column=10&margin-w=20&margin-h=20&v=3">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.devomb.com/?username=inkesk-dozing&theme=radical&no-bg=true&row=2&column=10&margin-w=20&margin-h=20&v=3">
-          <img src="https://github-trophies.devomb.com/?username=inkesk-dozing&theme=radical&no-bg=true&row=2&column=10&margin-w=20&margin-h=20&v=3" alt="Inkesk Trophies" />
-        </picture>
+        <img src="https://github-trophies.devomb.com/?username=inkesk-dozing&theme=radical&no-bg=true&row=1&column=10" alt="Inkesk Trophies" width="100%" />
       </a>
     </td>
   </tr>
 </table>
 
 <!-- GitHub Graph -->
-![Inkesk Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=inkesk-dozing&include_all_commits=true)
+<div align="center">
+  <a href="https://github.com/inkesk-dozing">
+    <img src="https://github-activity-graph.vercel.app/graph?username=inkesk-dozing&bg_color=0d1117&title_color=c56a90&text_color=ffffff&line=ffeb95&point=ffeb95&area_color=441350&hide_border=true&area=true" alt="Inkesk GitHub Activity Graph" width="100%" />
+  </a>
+</div>
 
 
 
