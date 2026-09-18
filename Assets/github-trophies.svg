@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#000000" stroke="#c56a90" />
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, sans-serif" font-weight="bold" font-size="16" fill="#ffeb95">
+    Stats Service Offline
+  </text>
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" fill="#ffffff">
+    Please check back later or visit github.com/inkesk-dozing
+  </text>
+</svg>
