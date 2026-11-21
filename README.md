@@ -92,7 +92,7 @@ We incubate and steer independent research subsidiaries dedicated to OSKA and au
 
 <div align="center">
 
-[![GitHub Organization](https://img.shields.io/badge/GitHub_Organization-eozkull-%23d4b23c?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/eozkull)
+[![GitHub Organization](https://img.shields.io/badge/GitHub_Organization-eOzkahq-%23d4b23c?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/eOzkahq)
 &nbsp;&nbsp;
 [![Official Website](https://img.shields.io/badge/Official_Website-eozka.com-%23d4b23c?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117)](https://eozka.com)
 &nbsp;&nbsp;
@@ -219,8 +219,8 @@ We incubate and steer independent research subsidiaries dedicated to OSKA and au
         <li>Designed to predict student burnout and monitor mental wellness with <b>88% prediction confidence</b>.</li>
       </ul>
       <br/>
-      <a href="https://github.com/eOzkull/MindSpace" target="_blank">
-        <img src="https://img.shields.io/badge/REPOSITORY-GITHUB.COM%2FEOZKULL%2FMINDSPACE-441350?style=for-the-badge&logo=github" alt="Repository Link" />
+      <a href="https://github.com/eOzkahq/MindSpace" target="_blank">
+        <img src="https://img.shields.io/badge/REPOSITORY-GITHUB.COM%2FeOzkahq%2FMINDSPACE-441350?style=for-the-badge&logo=github" alt="Repository Link" />
       </a>
     </td>
   </tr>
@@ -240,8 +240,8 @@ We incubate and steer independent research subsidiaries dedicated to OSKA and au
         <li>Unpacked developer-mode deployment for Chrome, supporting <b>100% offline rule configuration</b>.</li>
       </ul>
       <br/>
-      <a href="https://github.com/eOzkull/entab-D" target="_blank">
-        <img src="https://img.shields.io/badge/REPOSITORY-GITHUB.COM%2FEOZKULL%2FENTAB--D-8A2BE2?style=for-the-badge&logo=github" alt="Repository Link" />
+      <a href="https://github.com/eOzkahq/entab-D" target="_blank">
+        <img src="https://img.shields.io/badge/REPOSITORY-GITHUB.COM%2FeOzkahq%2FENTAB--D-8A2BE2?style=for-the-badge&logo=github" alt="Repository Link" />
       </a>
     </td>
     <td width="50%" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
@@ -259,8 +259,8 @@ We incubate and steer independent research subsidiaries dedicated to OSKA and au
         <li>Cross-platform web app and downloadable Android APK optimized for <b>60 FPS</b> animations.</li>
       </ul>
       <br/>
-      <a href="https://github.com/eOzkull/stress-calculator" target="_blank">
-        <img src="https://img.shields.io/badge/REPOSITORY-GITHUB.COM%2FEOZKULL%2FSTRESS--CALCULATOR-00A3E0?style=for-the-badge&logo=github" alt="Repository Link" />
+      <a href="https://github.com/eOzkahq/stress-calculator" target="_blank">
+        <img src="https://img.shields.io/badge/REPOSITORY-GITHUB.COM%2FeOzkahq%2FSTRESS--CALCULATOR-00A3E0?style=for-the-badge&logo=github" alt="Repository Link" />
       </a>
     </td>
   </tr>
